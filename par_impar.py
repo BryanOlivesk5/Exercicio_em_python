@@ -1,3 +1,5 @@
+#Este cógido verifica se foi digitado um número na string e se o mesmo é par ou ímpar
+
 numero = input('Digite um numero aqui: ')
 
 if numero.isdigit():
